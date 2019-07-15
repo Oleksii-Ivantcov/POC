@@ -1,0 +1,7 @@
+C:\Users\oivantsov\source\repos\POC\SysProc\obj\Debug\SysProc.csproj.CoreCompileInputs.cache
+C:\Users\oivantsov\source\repos\POC\SysProc\bin\Debug\SysProc.exe.config
+C:\Users\oivantsov\source\repos\POC\SysProc\bin\Debug\SysProc.exe
+C:\Users\oivantsov\source\repos\POC\SysProc\bin\Debug\SysProc.pdb
+C:\Users\oivantsov\source\repos\POC\SysProc\obj\Debug\SysProc.exe
+C:\Users\oivantsov\source\repos\POC\SysProc\obj\Debug\SysProc.pdb
+C:\Users\oivantsov\source\repos\POC\SysProc\obj\Debug\SysProc.csprojAssemblyReference.cache

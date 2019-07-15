@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Process>
+<Rules>
+<QuantityRule>
+<Quantity>4</Quantity>
+</QuantityRule>
+
+<NoMore>
+<More>5</More>
+</NoMore>
+
+<Status>
+<Stat>6</Stat>
+</Status>
+</Rules>
+</Process>

@@ -1,0 +1,11 @@
+C:\Users\oivantsov\source\repos\POC\ServerPOC\bin\Debug\ServerPOC.exe.config
+C:\Users\oivantsov\source\repos\POC\ServerPOC\bin\Debug\ServerPOC.exe
+C:\Users\oivantsov\source\repos\POC\ServerPOC\bin\Debug\ServerPOC.pdb
+C:\Users\oivantsov\source\repos\POC\ServerPOC\bin\Debug\SysProc.exe
+C:\Users\oivantsov\source\repos\POC\ServerPOC\bin\Debug\SysProc.pdb
+C:\Users\oivantsov\source\repos\POC\ServerPOC\bin\Debug\SysProc.exe.config
+C:\Users\oivantsov\source\repos\POC\ServerPOC\obj\Debug\ServerPOC.csprojAssemblyReference.cache
+C:\Users\oivantsov\source\repos\POC\ServerPOC\obj\Debug\ServerPOC.csproj.CoreCompileInputs.cache
+C:\Users\oivantsov\source\repos\POC\ServerPOC\obj\Debug\ServerPOC.csproj.CopyComplete
+C:\Users\oivantsov\source\repos\POC\ServerPOC\obj\Debug\ServerPOC.exe
+C:\Users\oivantsov\source\repos\POC\ServerPOC\obj\Debug\ServerPOC.pdb

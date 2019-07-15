@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Process xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rules>
+    <NoMore>
+      <More>3</More>
+    </NoMore>
+    <QuantityRule>
+      <Quantity>4</Quantity>
+    </QuantityRule>
+    <Status>
+      <Stat>5</Stat>
+    </Status>
+  </Rules>
+</Process>

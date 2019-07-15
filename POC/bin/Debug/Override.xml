@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Process>
+    <ProcessName type="string">notepad.exe</ProcessName>
+    <ProcessLocation type="string">C:/Windows/System32/cmd.exe</ProcessLocation>
+    <FileName type="string">persons.xml</FileName>
+  <Rules>
+    <QuantityRule>
+      <Quantity>3</Quantity>
+    </QuantityRule>
+    <UnExpectedStop>
+      <Stop>true</Stop>
+    </UnExpectedStop>
+    <AutoStart>
+      <Start>true</Start>
+    </AutoStart>
+  </Rules>
+</Process>
